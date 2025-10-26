@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** written from scratch for your GitHub project **DevCamp Fries Website**, assuming it’s your front-end web development project showcasing your design and coding skills:
-
----
-
 # 🍟 DevCamp Fries Website
 
 **A modern, responsive fries-themed restaurant website built to showcase front-end design, structure, and styling using clean HTML, CSS, and best UI practices.**
